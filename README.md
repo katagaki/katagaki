@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @katagaki
 - 👀 Working on native iOS app development, Japanese localization & translation, and project management
 - 🌱 Currently researching development of native iOS/macOS clients for services that would otherwise use Electron clients or websites 
-- 💞️ Looking for collaborators on my [Buses 2](https://github.com/katagaki/Tsugi2) project!
+- 💞️ Looking for collaborators for the [Buses 2](https://github.com/katagaki/Tsugi2) project!
