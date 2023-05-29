@@ -10,7 +10,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
 - [Guru](https://github.com/katagaki/Guru): a native iOS password manager with a unique take on password generation
 
-## Userscripts/Userstyles
+## Userstyles
 - [Discord Dark Better](https://gist.github.com/katagaki/229c7433652e67349d87579eb539b985)
 - [Google Dark Better](https://gist.github.com/katagaki/b9be30fdea7e4ec27a479bef97ac02f8)
 - [Google Meet Better](https://gist.github.com/katagaki/c93c770279ee42688a51c566674105b1)
@@ -23,5 +23,4 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [Wiki.js UI Tweaks](https://gist.github.com/katagaki/89b9c913ee1f496daa46788168013115)
 
 ## Others
-- [All Gists](https://gist.github.com/katagaki)
-- [All Repositories](https://github.com/katagaki?tab=repositories)
+- [My Gists](https://gist.github.com/katagaki)
