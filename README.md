@@ -16,6 +16,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [Google Meet Better](https://gist.github.com/katagaki/c93c770279ee42688a51c566674105b1)
 - [Pixiv Dark Better](https://gist.github.com/katagaki/360b99fdc613d1147e737a80e8154fd3)
 - [DMM Dark Better](https://gist.github.com/katagaki/ced053125b5af02fbbbff8800de6a891)
+- [ClickUp Dark Better](https://gist.github.com/katagaki/1da75e73e3b323ae2a1ed02094264e50)
 
 ## Web things
 - [Use System Fonts](https://gist.github.com/katagaki/6321ded941644f754aeb6a64d29b2f79)
