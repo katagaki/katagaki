@@ -6,7 +6,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 
 ## iOS/macOS projects
 - [Buses](https://github.com/katagaki/Tsugi2): a native iOS app for Singapore's public bus services
-- [Unagent](https://github.com/katagaki/BingMeUp): a Safari extension for iOS and macOS that changes the user agent served to specific websites
+- [Unagent](https://github.com/katagaki/Unagent): a Safari extension for iOS and macOS that changes the user agent served to specific websites
 - [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
 - [Guru](https://github.com/katagaki/Guru): a native iOS password manager with a unique take on password generation
 
