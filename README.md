@@ -4,12 +4,14 @@ I am currently working on native iOS app development, Japanese localization & tr
 
 On the side, I research development of native iOS/macOS clients for services that would otherwise use Electron clients or websites. 
 
-## iOS/macOS projects
+## Active iOS/macOS Apps
 - [Buses](https://github.com/katagaki/Tsugi2): a native iOS app for Singapore's public bus services
 - [Unagent](https://github.com/katagaki/Unagent): a Safari extension for iOS and macOS that changes the user agent served to specific websites
 - [Hackers](https://github.com/katagaki/HackersJP): a Hacker News app for Japanese readers
 - [Randomly](https://github.com/katagaki/Random): an iOS app that randomly generates several types of data
 - [DiceyDice](https://github.com/katagaki/DiceyDice): a sample iOS app that rolls some dice
+
+## Old iOS/macOS Apps
 - [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
 - [Guru](https://github.com/katagaki/Guru): a native iOS password manager with a unique take on password generation
 
@@ -21,7 +23,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [DMM Dark Better](https://gist.github.com/katagaki/ced053125b5af02fbbbff8800de6a891)
 - [ClickUp Dark Better](https://gist.github.com/katagaki/1da75e73e3b323ae2a1ed02094264e50)
 
-## Web things
+## Web Things
 - [Use System Fonts](https://gist.github.com/katagaki/6321ded941644f754aeb6a64d29b2f79)
 - [Use System Fonts (Safari)](https://gist.github.com/katagaki/cdc5419d1684cbd909e65334cf7ef2a4)
 - [Wiki.js UI Tweaks](https://gist.github.com/katagaki/89b9c913ee1f496daa46788168013115)
