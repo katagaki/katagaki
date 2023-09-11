@@ -11,6 +11,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [Randomly](https://github.com/katagaki/Random): an iOS app that randomly generates several types of data
 - [DiceyDice](https://github.com/katagaki/DiceyDice): a simple iOS app that rolls some dice
 - [Tunetag](https://github.com/katagaki/Tunetag): an MP3 tag editor for iOS
+- [Melodee](https://github.com/katagaki/Melodee): an audio file player for iOS
 
 ## Old iOS/macOS Apps
 - [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
