@@ -6,13 +6,15 @@ On the side, I research development of native iOS/macOS clients for services tha
 
 ## Active iOS/macOS Apps
 - [Buses](https://github.com/katagaki/Tsugi2): an app for Singapore's public bus services
-- [Unagent](https://github.com/katagaki/Unagent): a Safari extension that changes the user agent served to specific websites
 - [Hackers](https://github.com/katagaki/HackersJP): a Hacker News app for Japanese readers
 - [Randomly](https://github.com/katagaki/Random): an app that generates several types of random data
-- [DiceyDice](https://github.com/katagaki/DiceyDice): a simple app that rolls some dice
 - [Tunetag](https://github.com/katagaki/Tunetag): an MP3 tag editor
 - [Melodee](https://github.com/katagaki/Melodee): an audio played focused on file and folder management
-- [Meloan](https://github.com/katagaki/Meloan): a receipt and IOU tracker
+- [Meloan](https://github.com/katagaki/Meloan): a receipt-based IOU tracker
+
+## Semi-active iOS/macOS Apps
+- [Unagent](https://github.com/katagaki/Unagent): a Safari extension that changes the user agent served to specific websites
+- [DiceyDice](https://github.com/katagaki/DiceyDice): a simple app that rolls some dice
 
 ## Old iOS/macOS Apps
 - [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
