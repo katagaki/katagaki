@@ -4,7 +4,9 @@ I am currently working on native iOS app development, Japanese localization & tr
 
 On the side, I research development of native iOS/macOS clients for services that would otherwise use Electron clients or websites. 
 
-## Active iOS/macOS Apps
+## iOS/macOS Apps
+
+### Active Development
 - [Buses](https://github.com/katagaki/Tsugi2): an app for Singapore's public bus services
 - [Hackers](https://github.com/katagaki/HackersJP): a Hacker News app for Japanese readers
 - [Randomly](https://github.com/katagaki/Random): an app that generates several types of random data
@@ -12,11 +14,11 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [Melodee](https://github.com/katagaki/Melodee): an audio played focused on file and folder management
 - [Meloan](https://github.com/katagaki/Meloan): a receipt-based IOU tracker
 
-## Semi-active iOS/macOS Apps
+### Maintenance
 - [Unagent](https://github.com/katagaki/Unagent): a Safari extension that changes the user agent served to specific websites
 - [DiceyDice](https://github.com/katagaki/DiceyDice): a simple app that rolls some dice
 
-## Old iOS/macOS Apps
+### Archived
 - [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
 - [Guru](https://github.com/katagaki/Guru): a native iOS password manager with a unique take on password generation
 
