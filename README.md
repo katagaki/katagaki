@@ -8,7 +8,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 
 | Name | Description | Status |
 | --- | --- | --- |
-| [Buses](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
+| ![Buses 2 Icon](github/Tsugi2.png) [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
 | [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | Released |
 | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | Released |
 | [IllustMate](https://github.com/katagaki/IllustMate) | Secondary illustration collection/library | Developing |
