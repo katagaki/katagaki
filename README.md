@@ -15,7 +15,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 | ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | Released |
 | ![Melodee Icon](github/Melodee.png) | [Melodee](https://github.com/katagaki/Melodee) | Audio player focused on file and folder management | Released |
 | ![Randomly Icon](github/Random.png) | [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | Released |
-| ![Tunetag Icon](github/Tunetag.png) | [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor | Released |
+| ![Tunetag Icon](github/Tunetag.png) | [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor with support for inter-app drag and drop | Released |
 | ![Unagent Icon](github/Unagent.png) | [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | Released |
 | ![Guru Icon](github/Guru.png) | [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation | Archived |
 | ![QuickUp Icon](github/QuickUp.png) | [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API | Archived |
