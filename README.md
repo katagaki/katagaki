@@ -13,6 +13,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 - [Tunetag](https://github.com/katagaki/Tunetag): an MP3 tag editor
 - [Melodee](https://github.com/katagaki/Melodee): an audio played focused on file and folder management
 - [Meloan](https://github.com/katagaki/Meloan): a receipt-based IOU tracker
+- [IllustMate](https://github.com/katagaki/IllustMate): a secondary illustration collection/library
 
 ### Maintenance
 - [Unagent](https://github.com/katagaki/Unagent): a Safari extension that changes the user agent served to specific websites
