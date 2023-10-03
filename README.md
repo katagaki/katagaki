@@ -6,19 +6,19 @@ On the side, I research development of native iOS/macOS clients for services tha
 
 ## iOS/macOS Apps
 
-| Name | Description | Status |
-| --- | --- | --- |
-| ![Buses 2 Icon](github/Tsugi2.png) [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
-| [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | Released |
-| [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | Released |
-| [IllustMate](https://github.com/katagaki/IllustMate) | Secondary illustration collection/library | Developing |
-| [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker | Developing |
-| [Melodee](https://github.com/katagaki/Melodee) | Audio player focused on file and folder management | Released |
-| [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | Released |
-| [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor | Released |
-| [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | Released |
-| [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation | Archived |
-| [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API | Archived |
+| | Name | Description | Status |
+| --- | --- | --- | --- |
+| ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
+| | [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | Released |
+| | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | Released |
+| | [IllustMate](https://github.com/katagaki/IllustMate) | Secondary illustration collection/library | Developing |
+| | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker | Developing |
+| | [Melodee](https://github.com/katagaki/Melodee) | Audio player focused on file and folder management | Released |
+| | [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | Released |
+| | [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor | Released |
+| | [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | Released |
+| | [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation | Archived |
+| | [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API | Archived |
 
 ## Web Things
 
