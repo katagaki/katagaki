@@ -8,11 +8,11 @@ On the side, I research development of native iOS/macOS clients for services tha
 
 | | Name | Description | Status |
 | --- | --- | --- | --- |
+| ![IllustMate Icon](github/IllustMate.png) | [IllustMate](https://github.com/katagaki/IllustMate) | Secondary illustration collection/library | Developing |
+| ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker | Developing |
 | ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
 | ![DiceyDice Icon](github/DiceyDice.png) | [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | Released |
 | ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | Released |
-| ![IllustMate Icon](github/IllustMate.png) | [IllustMate](https://github.com/katagaki/IllustMate) | Secondary illustration collection/library | Developing |
-| ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker | Developing |
 | ![Melodee Icon](github/Melodee.png) | [Melodee](https://github.com/katagaki/Melodee) | Audio player focused on file and folder management | Released |
 | ![Randomly Icon](github/Random.png) | [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | Released |
 | ![Tunetag Icon](github/Tunetag.png) | [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor | Released |
