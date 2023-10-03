@@ -6,22 +6,19 @@ On the side, I research development of native iOS/macOS clients for services tha
 
 ## iOS/macOS Apps
 
-### Active Development
-- [Buses](https://github.com/katagaki/Tsugi2): an app for Singapore's public bus services
-- [Hackers](https://github.com/katagaki/HackersJP): a Hacker News app for Japanese readers
-- [Randomly](https://github.com/katagaki/Random): an app that generates several types of random data
-- [Tunetag](https://github.com/katagaki/Tunetag): an MP3 tag editor
-- [Melodee](https://github.com/katagaki/Melodee): an audio played focused on file and folder management
-- [Meloan](https://github.com/katagaki/Meloan): a receipt-based IOU tracker
-- [IllustMate](https://github.com/katagaki/IllustMate): a secondary illustration collection/library
-
-### Maintenance
-- [Unagent](https://github.com/katagaki/Unagent): a Safari extension that changes the user agent served to specific websites
-- [DiceyDice](https://github.com/katagaki/DiceyDice): a simple app that rolls some dice
-
-### Archived
-- [QuickUp](https://github.com/katagaki/QuickUp): a macOS client for ClickUp based on the ClickUp public API
-- [Guru](https://github.com/katagaki/Guru): a native iOS password manager with a unique take on password generation
+| Name | Description | Status |
+| --- | --- | --- |
+| [Buses](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
+| [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | Released |
+| [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | Released |
+| [IllustMate](https://github.com/katagaki/IllustMate) | Secondary illustration collection/library | **In Development** |
+| [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker | **In Development** |
+| [Melodee](https://github.com/katagaki/Melodee) | Audio player focused on file and folder management | Released |
+| [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | Released |
+| [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor | Released |
+| [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | Released |
+| [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation | Archived |
+| [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API | Archived |
 
 ## Userstyles
 - [Discord Dark Better](https://gist.github.com/katagaki/229c7433652e67349d87579eb539b985)
