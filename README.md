@@ -1,8 +1,8 @@
 # Hello
 
-I am currently working on native iOS app development, Japanese localization & translation, and project management.
+I am currently working on native iOS app development with SwiftUI, Japanese localization & translation, and upgrading my own project management skills.
 
-On the side, I research development of native iOS/macOS clients for services that would otherwise use Electron clients or websites. 
+On the side, I research development of native iOS/macOS clients for services that would otherwise use Electron clients or websites, and think deeply about how apps and services function (without reverse engineering them). 
 
 ## iOS/macOS Apps
 
