@@ -1,10 +1,4 @@
-# Hello
-
-I am currently working on native iOS app development with SwiftUI, Japanese localization & translation, and upgrading my own project management skills.
-
-On the side, I research development of native iOS/macOS clients for services that would otherwise use Electron clients or websites, and think deeply about how apps and services function (without reverse engineering them). 
-
-## iOS/macOS Apps
+# iOS/macOS Apps
 
 | | Name | Description | Status |
 | --- | --- | --- | --- |
@@ -20,7 +14,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 | ![Guru Icon](github/Guru.png) | [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation | Archived |
 | ![QuickUp Icon](github/QuickUp.png) | [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API | Archived |
 
-## Web Things
+# Web Things
 
 | Name | Category |
 | --- | --- |
@@ -34,7 +28,7 @@ On the side, I research development of native iOS/macOS clients for services tha
 | [Use System Fonts (Safari)](https://gist.github.com/katagaki/cdc5419d1684cbd909e65334cf7ef2a4) | CSS |
 | [Wiki.js UI Tweaks](https://gist.github.com/katagaki/89b9c913ee1f496daa46788168013115) | CSS |
 
-## Others
+# Others
 
 | Name | Description |
 | --- | --- |
