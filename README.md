@@ -3,9 +3,9 @@
 ## In Development
 | | Name | Description | Status |
 | --- | --- | --- | --- |
-| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | Developing |
-| ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | Developing |
 | ![DJDX Icon](github/DJDX.png) | [DJDX](https://github.com/katagaki/DJDX) | beatmaniaIIDX score management with automatic CSV import and visual analytics | Developing |
+| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | Pending Fix From Apple |
+| ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | On Hold |
 
 ## Released
 | | Name | Description | Status |
