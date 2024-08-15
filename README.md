@@ -3,7 +3,7 @@
 ## In Development
 | | Name | Description | Status |
 | --- | --- | --- | --- |
-| ![CiRCLES Icon](github/CiRCLES.png) | [DJDX](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | Developing |
+| ![CiRCLES Icon](github/CiRCLES.png) | [CiRCLES](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | Developing |
 | ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | On Hold |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | On Hold |
 
