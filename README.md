@@ -1,3 +1,8 @@
+# Development Environment
+
+- MacBook Air (M2)
+- Xcode, PyCharm Professional, WebStorm
+
 # iOS/macOS Apps
 
 ## In Development
