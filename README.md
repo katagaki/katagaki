@@ -8,13 +8,14 @@
 ## In Development
 | | Name | Description | Status |
 | --- | --- | --- | --- |
-| ![CiRCLES Icon](github/CiRCLES.png) | [CiRCLES](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | In Review |
+| ![WorkingHour Icon](github/WorkingHour.png) | [WorkingHour](https://github.com/katagaki/WorkingHour) | TBA | Developing |
 | ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | On Hold |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | On Hold |
 
 ## Released
 | | Name | Description | Status |
 | --- | --- | --- | --- |
+| ![CiRCLES Icon](github/CiRCLES.png) | [CiRCLES](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | Released |
 | ![DJDX Icon](github/DJDX.png) | [DJDX](https://github.com/katagaki/DJDX) | beatmaniaIIDX score management with automatic CSV import and visual analytics | Released |
 | ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
 | ![DiceyDice Icon](github/DiceyDice.png) | [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | Released |
