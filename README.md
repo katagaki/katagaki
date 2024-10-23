@@ -8,7 +8,7 @@
 ## In Development
 | | Name | Description | Status |
 | --- | --- | --- | --- |
-| ![WorkingHour Icon](github/WorkingHour.png) | [WorkingHour](https://github.com/katagaki/WorkingHour) | TBA | Developing |
+| ![WorkingHour Icon](github/WorkingHour.png) | [WorkingHour](https://github.com/katagaki/WorkingHour) | Simple timesheet app | Developing |
 | ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | On Hold |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | On Hold |
 
