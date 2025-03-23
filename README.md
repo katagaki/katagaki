@@ -8,6 +8,7 @@
 ## In Development
 | | Name | Description | Status |
 | --- | --- | --- | --- |
+| ![Bromides Icon](github/Bromides.png) | [Bromides](https://github.com/katagaki/Bromides) | Share extension for quickly saving photos to albums | Developing |
 | ![SortNAO Icon](github/SortNAO.png) | [SortNAO](https://github.com/katagaki/SortNAO) | SauceNAO illustration sorter | Developing |
 | ![WorkingHour Icon](github/WorkingHour.png) | [WorkingHour](https://github.com/katagaki/WorkingHour) | Simple timesheet app | On Hold |
 | ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | On Hold |
