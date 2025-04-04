@@ -8,8 +8,6 @@
 ## In Development
 | | Name | Description | Status |
 | --- | --- | --- | --- |
-| ![Bromides Icon](github/Bromides.png) | [Bromides](https://github.com/katagaki/Bromides) | Share extension for quickly saving photos to albums | Developing |
-| ![SortNAO Icon](github/SortNAO.png) | [SortNAO](https://github.com/katagaki/SortNAO) | SauceNAO illustration sorter | Developing |
 | ![WorkingHour Icon](github/WorkingHour.png) | [WorkingHour](https://github.com/katagaki/WorkingHour) | Simple timesheet app | On Hold |
 | ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | On Hold |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | On Hold |
@@ -17,6 +15,8 @@
 ## Released
 | | Name | Description | Status |
 | --- | --- | --- | --- |
+| ![Bromides Icon](github/Bromides.png) | [Bromides](https://github.com/katagaki/Bromides) | Share extension for quickly saving photos to albums | Released |
+| ![SortNAO Icon](github/SortNAO.png) | [SortNAO](https://github.com/katagaki/SortNAO) | SauceNAO illustration sorter | Released |
 | ![CiRCLES Icon](github/CiRCLES.png) | [CiRCLES](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | Released |
 | ![DJDX Icon](github/DJDX.png) | [DJDX](https://github.com/katagaki/DJDX) | beatmania IIDX score management with automatic CSV import and visual analytics | Released |
 | ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | Released |
