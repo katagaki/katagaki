@@ -1,5 +1,3 @@
-## [All my apps are free for the month of April!](https://apps.apple.com/developer/id1423154796)
-
 # Development Environment
 
 - MacBook Air (M2)
