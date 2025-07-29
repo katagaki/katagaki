@@ -5,7 +5,7 @@
 # Development Environment
 
 - MacBook Air (M2)
-- Xcode, Zed, PyCharm Professional
+- Xcode, PyCharm
 
 # iOS/macOS Apps
 
