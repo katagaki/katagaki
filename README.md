@@ -9,13 +9,6 @@
 
 # iOS/macOS Apps
 
-## In Development
-| | Name | Description | Status |
-| --- | --- | --- | --- |
-| ![WorkingHour Icon](github/WorkingHour.png) | [WorkingHour](https://github.com/katagaki/WorkingHour) | Simple timesheet app | On Hold |
-| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | On Hold |
-| ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | On Hold |
-
 ## Released
 | | Name | Description | Status |
 | --- | --- | --- | --- |
@@ -30,8 +23,15 @@
 | ![Randomly Icon](github/Random.png) | [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | Released |
 | ![Tunetag Icon](github/Tunetag.png) | [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor with support for inter-app drag and drop | Released |
 | ![Unagent Icon](github/Unagent.png) | [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | Released |
-| ![Guru Icon](github/Guru.png) | [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation | Archived |
-| ![QuickUp Icon](github/QuickUp.png) | [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API | Archived |
+
+## Archived
+| | Name | Description |
+| --- | --- | --- |
+| ![WorkingHour Icon](github/WorkingHour.png) | [Working Hour](https://github.com/katagaki/WorkingHour) | Simple timesheet app |
+| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension |
+| ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync |
+| ![QuickUp Icon](github/QuickUp.png) | [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API |
+| ![Guru Icon](github/Guru.png) | [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation |
 
 # Others
 
