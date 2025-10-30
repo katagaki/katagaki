@@ -40,7 +40,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><h3>Development Environment</h3></summary>
 
 - MacBook Air (M2)
