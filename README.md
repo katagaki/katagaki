@@ -46,7 +46,4 @@
 - MacBook Air (M2)
 - Xcode, Antigravity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katagaki&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=katagaki&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 </details>
