@@ -16,6 +16,8 @@
 | ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
 | ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
 
+<!-- Working Hour is also available elsewhere on the App Store, courtesy of Westbrook Computers Ltd that used the source code without permission: https://apps.apple.com/app/id6740186705 -->
+
 </details>
 
 <details>
