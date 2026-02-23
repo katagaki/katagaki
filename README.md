@@ -3,6 +3,7 @@
 
 | | Name | Description | Download |
 | --- | --- | --- | --- |
+| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension | Developing |
 | ![CiRCLES Icon](github/CiRCLES.png) | [CiRCLES](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | [App Store](https://apps.apple.com/app/id6504527248) |
 | ![DJDX Icon](github/DJDX.png) | [DJDX](https://github.com/katagaki/DJDX) | beatmania IIDX score management with automatic CSV import and visual analytics | [App Store](https://apps.apple.com/app/id6502867123) |
 | ![Bromides Icon](github/Bromides.png) | [Bromides](https://github.com/katagaki/Bromides) | Share extension for quickly saving photos to albums | [App Store](https://apps.apple.com/app/id6743665547) |
@@ -25,7 +26,6 @@
 
 | | Name | Description |
 | --- | --- | --- |
-| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary picture collection/library with share extension |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync |
 | ![QuickUp Icon](github/QuickUp.png) | [QuickUp](https://github.com/katagaki/QuickUp) | macOS client for ClickUp based on the ClickUp public API |
 | ![Guru Icon](github/Guru.png) | [Guru](https://github.com/katagaki/Guru) | Native iOS password manager with a unique take on password generation |
