@@ -46,6 +46,6 @@
 <summary><h3>Development Environment</h3></summary>
 
 - MacBook Air (M2)
-- Xcode, Antigravity
+- Xcode, Claude.app
 
 </details>
