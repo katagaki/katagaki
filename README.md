@@ -14,7 +14,8 @@
 | ![DiceyDice Icon](github/DiceyDice.png) | [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | [App Store](https://apps.apple.com/app/id6464077724) |
 | ![SortNAO Icon](github/SortNAO.png) | [SortNAO](https://github.com/katagaki/SortNAO) | SauceNAO illustration sorter | [App Store](https://apps.apple.com/app/id6743339171) |
 | ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
-| ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News app for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
+| ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News client for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
+| ![Sakura Icon](github/Sakura.png) | [PicMate](https://github.com/katagaki/SakuraRSS) | Social media style RSS reader with video and podcast support | Developing |
 | ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary photo/image collection with share extension | Developing |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | Developing |
 
