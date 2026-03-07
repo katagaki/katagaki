@@ -1,23 +1,46 @@
 <details open>
 <summary><h3>Apps</h3></summary>
 
+## Headliners
+
 | | Name | Description | Download |
 | --- | --- | --- | --- |
 | ![CiRCLES Icon](github/CiRCLES.png) | [CiRCLES](https://github.com/katagaki/CirclesApp) | Comic Market (Comiket) map and catalog viewer | [App Store](https://apps.apple.com/app/id6504527248) |
 | ![DJDX Icon](github/DJDX.png) | [DJDX](https://github.com/katagaki/DJDX) | beatmania IIDX score management with automatic CSV import and visual analytics | [App Store](https://apps.apple.com/app/id6502867123) |
+
+## Media
+
+| | Name | Description | Download |
+| --- | --- | --- | --- |
+| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary photo/image collection with share extension | [App Store](https://apps.apple.com/app/id6468482998) |
 | ![Bromides Icon](github/Bromides.png) | [Bromides](https://github.com/katagaki/Bromides) | Share extension for quickly saving photos to albums | [App Store](https://apps.apple.com/app/id6743665547) |
-| ![Unagent Icon](github/Unagent.png) | [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | [App Store](https://apps.apple.com/app/id6448220941) |
+| ![SortNAO Icon](github/SortNAO.png) | [SortNAO](https://github.com/katagaki/SortNAO) | SauceNAO illustration sorter | [App Store](https://apps.apple.com/app/id6743339171) |
 | ![Melodee Icon](github/Melodee.png) | [Melodee](https://github.com/katagaki/Melodee) | Audio player focused on file and folder management | [App Store](https://apps.apple.com/app/id6465898934) |
 | ![Tunetag Icon](github/Tunetag.png) | [Tunetag](https://github.com/katagaki/Tunetag) | MP3 tag editor with support for inter-app drag and drop | [App Store](https://apps.apple.com/app/id6464678747) |
+
+## News
+
+| | Name | Description | Download |
+| --- | --- | --- | --- |
+| ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News client for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
+| ![Sakura Icon](github/Sakura.png) | [Sakura](https://github.com/katagaki/SakuraRSS) | Social media style RSS reader with video and podcast support | Developing |
+
+
+## Productivity
+
+| | Name | Description | Download |
+| --- | --- | --- | --- |
 | ![WorkingHour Icon](github/WorkingHour.png) | [Working Hour](https://github.com/katagaki/WorkingHour) | Simple timesheet app | [App Store](https://apps.apple.com/app/id6736696817) |
 | ![Randomly Icon](github/Random.png) | [Randomly](https://github.com/katagaki/Random) | App that generates several types of random data | [App Store](https://apps.apple.com/app/id1573431626) |
 | ![DiceyDice Icon](github/DiceyDice.png) | [DiceyDice](https://github.com/katagaki/DiceyDice) | Simple app that rolls some dice | [App Store](https://apps.apple.com/app/id6464077724) |
-| ![SortNAO Icon](github/SortNAO.png) | [SortNAO](https://github.com/katagaki/SortNAO) | SauceNAO illustration sorter | [App Store](https://apps.apple.com/app/id6743339171) |
-| ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
-| ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News client for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
-| ![PicMate Icon](github/IllustMate.png) | [PicMate](https://github.com/katagaki/IllustMate) | Secondary photo/image collection with share extension | [App Store](https://apps.apple.com/app/id6468482998) |
-| ![Sakura Icon](github/Sakura.png) | [Sakura](https://github.com/katagaki/SakuraRSS) | Social media style RSS reader with video and podcast support | Developing |
+| ![Unagent Icon](github/Unagent.png) | [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | [App Store](https://apps.apple.com/app/id6448220941) |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | Developing |
+
+## Travel
+
+| | Name | Description | Download |
+| --- | --- | --- | --- |
+| ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
 
 <!-- Working Hour is also available elsewhere on the App Store, courtesy of Westbrook Computers Ltd that used the source code without permission: https://apps.apple.com/app/id6740186705 -->
 
