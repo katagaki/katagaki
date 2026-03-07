@@ -25,7 +25,6 @@
 | ![Hackers Icon](github/HackersJP.png) | [Hackers](https://github.com/katagaki/HackersJP) | Hacker News client for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
 | ![Sakura Icon](github/Sakura.png) | [Sakura](https://github.com/katagaki/SakuraRSS) | Social media style RSS reader with video and podcast support | Developing |
 
-
 ## Productivity
 
 | | Name | Description | Download |
@@ -36,18 +35,15 @@
 | ![Unagent Icon](github/Unagent.png) | [Unagent](https://github.com/katagaki/Unagent) | Safari extension that changes the user agent served to specific websites | [App Store](https://apps.apple.com/app/id6448220941) |
 | ![Meloan Icon](github/Meloan.png) | [Meloan](https://github.com/katagaki/Meloan) | Receipt-based IOU tracker with iCloud sync | Developing |
 
+<!-- Working Hour is also available elsewhere on the App Store, courtesy of Westbrook Computers Ltd that used the source code without permission: https://apps.apple.com/app/id6740186705 -->
+
 ## Travel
 
 | | Name | Description | Download |
 | --- | --- | --- | --- |
 | ![Buses 2 Icon](github/Tsugi2.png) | [Buses 2](https://github.com/katagaki/Tsugi2) | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
 
-<!-- Working Hour is also available elsewhere on the App Store, courtesy of Westbrook Computers Ltd that used the source code without permission: https://apps.apple.com/app/id6740186705 -->
-
-</details>
-
-<details>
-<summary><h3>Archived Apps</h3></summary>
+## Archived
 
 | | Name | Description |
 | --- | --- | --- |
@@ -61,7 +57,7 @@
 
 | Name | Description |
 | --- | --- |
-| [KeyAssets](https://github.com/katagaki/KeyAssets) | Keynote assets for app icons and other assets found in my apps |
+| [KeyAssets](https://github.com/katagaki/KeyAssets) | Raw assets for app icons and other assets found in my apps |
 | [My Gists](https://gist.github.com/katagaki) | Scripts, code snippets, and more |
 
 </details>
