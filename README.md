@@ -22,7 +22,7 @@
 | | Name | Description | Download |
 | :---: | --- | --- | :---: |
 | ![Hackers Icon](github/HackersJP.png) | **[Hackers](https://github.com/katagaki/HackersJP)** | Hacker News client for Japanese readers | [App Store](https://apps.apple.com/app/id6463075798) |
-| ![Sakura Icon](github/Sakura.png) | **[Sakura](https://github.com/katagaki/SakuraRSS)** | Social media style RSS reader with video and podcast support | In Development |
+| ![Sakura Icon](github/Sakura.png) | **[Sakura](https://github.com/katagaki/SakuraRSS)** | Social media style RSS reader with video and podcast support | In Review |
 
 ### Productivity
 
