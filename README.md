@@ -32,6 +32,7 @@
 | ![Randomly Icon](github/Random.png) | **[Randomly](https://github.com/katagaki/Random)** | App that generates several types of random data | [App Store](https://apps.apple.com/app/id1573431626) |
 | ![DiceyDice Icon](github/DiceyDice.png) | **[DiceyDice](https://github.com/katagaki/DiceyDice)** | Simple app that rolls some dice | [App Store](https://apps.apple.com/app/id6464077724) |
 | ![Unagent Icon](github/Unagent.png) | **[Unagent](https://github.com/katagaki/Unagent)** | Safari extension that changes the user agent served to specific websites | [App Store](https://apps.apple.com/app/id6448220941) |
+| ![Conductor Icon](github/Symphony.png) | [Conductor](https://github.com/katagaki/Symphony) | Xcode Cloud build management app | In Review |
 | ![Meloan Icon](github/Meloan.png) | **[Meloan](https://github.com/katagaki/Meloan)** | Receipt-based IOU tracker with iCloud sync | In Development |
 
 ### Travel
