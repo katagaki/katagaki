@@ -52,15 +52,9 @@
 
 ---
 
-# Other Projects
+# Others
 
 | Name | Description |
 | --- | --- |
 | **[KeyAssets](https://github.com/katagaki/KeyAssets)** | Raw assets for app icons and other assets found in my apps |
 | **[My Gists](https://gist.github.com/katagaki)** | Scripts, code snippets, and more |
-
----
-
-# Development Environment
-
-MacBook Air (M2) · Xcode, Claude.app
