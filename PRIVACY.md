@@ -2,6 +2,8 @@
 
 **Effective Date:** 16 March 2026
 
+(This privacy policy supersedes any other `Privacy Policy.pdf` file.)
+
 ## Data Collection
 
 My apps do not collect, store, or process any personal data or information from you.
