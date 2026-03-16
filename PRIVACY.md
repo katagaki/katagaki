@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** March 16, 2026
+**Effective Date:** 16 March 2026
 
 ## Data Collection
 
