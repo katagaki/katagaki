@@ -22,7 +22,7 @@ My apps will never collect and send this information to any remote server for st
 ## Changes to This Policy
 
 I may update this privacy policy from time to time. 
-Any changes will be trackable via Git commits, and the effective date will be updated.
+Any change will be trackable via Git commits, and the effective date will be updated.
 
 ## Contact
 
