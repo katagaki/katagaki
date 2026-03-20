@@ -45,7 +45,7 @@
 
 | | Name | Description | Download |
 | :---: | --- | --- | :---: |
-| ![Buses 2 Icon](github/Tsugi2.png) | **[Buses 2](https://github.com/katagaki/Tsugi2)** | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
+| ![Buses Icon](github/Tsugi2.png) | **[Buses](https://github.com/katagaki/Tsugi2)** | App for Singapore's public bus services | [App Store](https://apps.apple.com/app/id1629921117) |
 
 ### Archived
 
