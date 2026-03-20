@@ -7,16 +7,21 @@
 | ![CiRCLES Icon](github/CiRCLES.png) | **[CiRCLES](https://github.com/katagaki/CirclesApp)** | Comic Market (Comiket) map and catalog viewer | [App Store](https://apps.apple.com/app/id6504527248) |
 | ![DJDX Icon](github/DJDX.png) | **[DJDX](https://github.com/katagaki/DJDX)** | beatmania IIDX score management with automatic CSV import and visual analytics | [App Store](https://apps.apple.com/app/id6502867123) |
 
-### Media
+### Photo & Video
 
 | | Name | Description | Download |
 | :---: | --- | --- | :---: |
 | ![PicMate Icon](github/IllustMate.png) | **[PicMate](https://github.com/katagaki/IllustMate)** | Secondary photo/image collection with share extension | [App Store](https://apps.apple.com/app/id6468482998) |
 | ![Bromides Icon](github/Bromides.png) | **[Bromides](https://github.com/katagaki/Bromides)** | Share extension for quickly saving photos to albums | [App Store](https://apps.apple.com/app/id6743665547) |
 | ![SortNAO Icon](github/SortNAO.png) | **[SortNAO](https://github.com/katagaki/SortNAO)** | SauceNAO illustration sorter | [App Store](https://apps.apple.com/app/id6743339171) |
+| ![Reeled Icon](github/Reeled.png) | **[Reeled](https://github.com/katagaki/Reeled)** | VHS filter for photos and videos | [App Store](https://apps.apple.com/app/id6760656102) |
+
+### Audio
+
+| | Name | Description | Download |
+| :---: | --- | --- | :---: |
 | ![Melodee Icon](github/Melodee.png) | **[Melodee](https://github.com/katagaki/Melodee)** | Audio player focused on file and folder management | [App Store](https://apps.apple.com/app/id6465898934) |
 | ![Tunetag Icon](github/Tunetag.png) | **[Tunetag](https://github.com/katagaki/Tunetag)** | MP3 tag editor with support for inter-app drag and drop | [App Store](https://apps.apple.com/app/id6464678747) |
-| ![Reeled Icon](github/Reeled.png) | **[Reeled](https://github.com/katagaki/Reeled)** | VHS filter for photos and videos | [App Store](https://apps.apple.com/app/id6760656102) |
 
 ### News
 
