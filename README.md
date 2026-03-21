@@ -1,7 +1,5 @@
 # Apps
 
-### Headliners
-
 | | App | Download | Genre |
 | :---: | --- | :---: | --- |
 | ![CiRCLES Icon](github/CiRCLES.png) | **[CiRCLES](https://github.com/katagaki/CirclesApp)**<br>Comic Market (Comiket) map and catalog viewer | [App Store](https://apps.apple.com/app/id6504527248) | Navigation |
