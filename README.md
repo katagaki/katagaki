@@ -1,5 +1,8 @@
-**Currently Focused On**
+**My Gear**
 
-[Sakura](https://github.com/katagaki/SakuraRSS) | [CiRCLES for iOS](https://github.com/katagaki/CirclesApp) | [CiRCLES for Android](https://github.com/katagaki/CirclesGo) | [Kamicash](https://github.com/katagaki/Kamiregi) | [PicSave](https://github.com/katagaki/PicSave) | [Meloan](https://github.com/katagaki/Meloan)
+* MacBook Pro (14-inch, M5 Pro) running macOS 27 Golden Gate
+* Xcode 27 beta
+* PyCharm Professional
+* Android Studio
 
-For the full list of apps, visit [my homepage](https://katagaki.github.io/everything/).
+For a full list of my apps, visit [my homepage](https://katagaki.github.io/everything/).
